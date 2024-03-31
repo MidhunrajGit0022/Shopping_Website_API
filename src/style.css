@@ -1,0 +1,85 @@
+.bannertext{
+  color: white;
+ padding-top: 140px;
+ /* padding-left: 80px; */
+}
+
+.bannerh{
+  font-size: 40px;
+  line-height: 1.2;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bannerp{
+ font-family: 900;
+ line-height: 1.5;
+ font-size: 20px;
+}
+
+.latest{
+  font-weight: 400;
+    line-height: 1.2;  
+}
+
+.card-image {
+  width: 170px;
+  height: 350px; 
+  object-fit: cover;
+}
+
+.custom-border {
+  border: 1px solid #ccc; 
+  padding: 10px; 
+  border-radius: 2px;
+}
+
+.ctitle{
+  font-weight: 500;
+ 
+}
+
+.checked{
+  color: #ffe600;
+}
+
+.star{
+  font-size: 20px;
+}
+
+.buy{
+  color: #ff9f00;
+}
+
+.prizepart{
+  background-color: #f1f3f6;
+}
+
+.aboutp{
+  font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.qty{
+  font-size: 22px;
+  font-weight: 500;
+}
+.quantity-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quantity-button__button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.quantity-button__quantity {
+  font-size: 1.2rem;
+  margin: 0 10px;
+}
